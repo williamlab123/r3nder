@@ -2,6 +2,7 @@
 #include "src/screen.h"
 #include "src/object.h"
 
+
 int main()
 {
   std::vector<vec3> cubeVertices = {
